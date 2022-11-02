@@ -1,4 +1,4 @@
-## ATLIQ MART SUPPLY CHAIN CHALLANGE PROJECT (MCG Domain)
+## ATLIQ MART SUPPLY CHAIN CHALLANGE PROJECT (FMCG Domain)
 
 Working in Power BI is always fun and challenging, every time and everyday you learn new things. Its just not about creating visuals, it’s about transforming raw data into meaningful visuals to solve any business challenge.
 
