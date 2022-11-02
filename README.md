@@ -1,3 +1,5 @@
+## ATLIQ MART SUPPLY CHAIN CHALLANGE PROJECT (MCG Domain)
+
 Working in Power BI is always fun and challenging, every time and everyday you learn new things. Its just not about creating visuals, it’s about transforming raw data into meaningful visuals to solve any business challenge.
 
 This is my first time participating in any challenge. Working on this project was fun and it made me brush up my skills in and taught me so much. It’s rightly said, the best way to learn is to work on a project.
