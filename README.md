@@ -1,7 +1,9 @@
 ## ATLIQ MART SUPPLY CHAIN CHALLANGE PROJECT (FMCG Domain)
 
 Check out interactive version @-->https://www.novypro.com/project/supply-chain-challenge-project-by-codebasics
+
 LinkdIn Post-->https://www.linkedin.com/feed/update/urn:li:activity:6993531022013304833/
+
 Certification-->https://codebasics.io/certificate/CH-1-5-20928
 
 Working in Power BI is always fun and challenging, every time and everyday you learn new things. Its just not about creating visuals, it’s about transforming raw data into meaningful visuals to solve any business challenge.
